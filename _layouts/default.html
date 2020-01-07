@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "zh" }}">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	<title>Heptazhou</title>
+	<link rel="stylesheet" type="text/css" href="https://src.heptazhou.com/2r19joeh93wxrsd0jc1ndu07i/a281kmzwun1jdm9kyuk4gm78z.css" />
+	<style>{% include leap-day-compressed.css %}</style>
+	<script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+	<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+	<!-- Apple extension -->
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="format-detection" content="telephone=no" />
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+	<![endif]-->
+</head>
+<body>
+	<header>
+		<h1>{{ site.title | default: "Heptazhou" }}</h1>
+		<p>{{ site.description | default: site.github.project_tagline }}</p>
+	</header>
+	<div class="wrapper">
+		<nav>
+			<ul></ul>
+		</nav>
+<section>
+{{ content }}
+</section>
+		<footer>
+			<p class="copyright">Copyright &COPY; Heptazhou</p><br />
+			<small>
+				本页面使用<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>授权。<br />
+				This page is licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />
+			</small>
+		</footer>
+	</div>
+</body>
+</html>

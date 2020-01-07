@@ -1,0 +1,11 @@
+description: 茗生此中石
+encoding: UTF-8
+future: true
+gfm_quirks: []
+github: [metadata]
+jailed: false
+kramdown:
+  hard_wrap: true
+  input: GFM
+theme: jekyll-theme-leap-day
+title: 第七詝的日志
