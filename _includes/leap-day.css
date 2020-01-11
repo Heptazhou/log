@@ -113,12 +113,21 @@ footer .copyright {
 }
 
 footer {
-	font-family: 'Sarasa Mono', 'Noto CJK', Monaco, Menlo, Consolas, sans-serif, monospace;
+	font-family: 'Sarasa Mono', 'Noto CJK', 'Noto CJK Mono', Monaco, Menlo, Consolas, sans-serif, monospace;
 	width: 20%;
 	position: fixed;
 	left: 20px;
 	bottom: 20px;
 	line-height: 16px
+}
+
+@media(max-width:640px) {
+	footer .copyright {
+		font-family: 'Noto CJK Local', 'Noto Mono Local', 'Sarasa Mono Local', 'Noto CJK', Monaco, Menlo, Consolas, sans-serif
+	}
+	footer {
+		font-family: 'Sarasa Mono Local', 'Noto CJK Mono Local', 'Noto CJK', Monaco, Menlo, Consolas, sans-serif
+	}
 }
 
 form {
@@ -315,7 +324,6 @@ q {
 }
 
 q:before, q:after {
-	content: '';
 	content: none
 }
 
@@ -484,16 +492,12 @@ th {
 		max-width: 600px
 	}
 	footer {
-		font-family: 'Sarasa Mono Local', 'Noto CJK Local', Monaco, Menlo, Consolas, sans-serif, monospace;
 		text-align: center;
 		margin: 20px auto;
 		position: relative;
 		left: auto;
 		bottom: auto;
 		width: auto
-	}
-	footer .copyright {
-		font-family: 'Noto CJK Local', 'Noto Mono Local', sans-serif
 	}
 }
 
@@ -545,16 +549,12 @@ th {
 
 @media (max-height: 680px) {
 	footer {
-		font-family: 'Sarasa Mono Local', 'Noto CJK Local', Monaco, Menlo, Consolas, sans-serif, monospace;
 		text-align: center;
 		margin: 20px auto;
 		position: relative;
 		left: auto;
 		bottom: auto;
 		width: auto
-	}
-	footer .copyright {
-		font-family: 'Noto CJK Local', 'Noto Mono Local', sans-serif
 	}
 }
 
