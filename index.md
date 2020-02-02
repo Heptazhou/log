@@ -73,6 +73,10 @@ Twist, tangle, unravel, connect.
 //君の名は。
 
 *****
+#	181020
+Sorry, you've been detected as an automated program (a bot).
+
+*****
 #	180916
 陌生的城市啊，熟悉的娇萝莉。
 <!-- 角落里 -->
