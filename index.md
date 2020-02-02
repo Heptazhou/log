@@ -85,8 +85,7 @@ Sorry, you've been detected as an automated program (a bot).
 
 *****
 #	180916
-陌生的城市啊，熟悉的娇萝莉。
-<!-- 角落里 -->
+陌生的城市啊，熟悉的娇萝莉。<!-- 角落里 -->
 //漂洋过海来看你
 
 *****
