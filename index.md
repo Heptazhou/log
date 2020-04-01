@@ -6,7 +6,7 @@
 #	20200322
 也许世上根本没有拆腻子，也许人人都是拆腻子
 <!--  -->
-![g5101818](https://img2.gelbooru.com//images/03/93/0393c8ce9634775674cc0bc574921302.jpg)
+[![g5101818](https://img2.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)](https://img2.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)
 
 *****
 #	20200313
