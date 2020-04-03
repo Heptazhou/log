@@ -37,6 +37,10 @@ aria da capo
 醒不来的最佳解决方法是不睡（确信）
 
 *****
+#	20191014
+离谱好
+
+*****
 #	20190924
 宁宁真是太可爱了（柚厨发言）
 
@@ -115,6 +119,10 @@ Sorry, you've been detected as an automated program (a bot).
 // 漂洋过海来看你
 
 *****
+#	20180812
+[![zhihu.bilibili](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)
+
+*****
 #	20180808
 拉二是如此美妙(´；ω；`)
 
@@ -142,6 +150,10 @@ embracing stillness
 *****
 #	20171213
 Music begins when the language ends.
+
+*****
+#	20171126
+君谁须兮云之际
 
 *****
 #	20171102
