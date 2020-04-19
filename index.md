@@ -1,4 +1,8 @@
 
+#	20200419
+![](https://steamuserimages-a.akamaihd.net/ugc/1011564198058770607/9E91D4E2BACC2D457700BD755AC4C197A72FA4D9/)
+
+*****
 #	20200406
 soraaaaa
 <!--  -->
