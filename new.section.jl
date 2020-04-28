@@ -1,6 +1,7 @@
 import Dates
 
 file = "index.md"
+cd("docs")
 
 if isfile(file)
     tfile = file * ".tmp"
@@ -15,8 +16,8 @@ if isfile(file)
         print(io, str)
     end
     mv(tfile, file, force = true)
-    println("完成")
+    @info "完成"
 else
-    println("错误")
+    @info "错误"
 end
 readline()
