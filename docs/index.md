@@ -1,6 +1,27 @@
 
-#	20200419
-[![](https://steamuserimages-a.akamaihd.net/ugc/1011564198058770607/9E91D4E2BACC2D457700BD755AC4C197A72FA4D9/)](https://steamuserimages-a.akamaihd.net/ugc/1011564198058770607/9E91D4E2BACC2D457700BD755AC4C197A72FA4D9/)
+#	20200530
+爲什麽看的本子也會變成夢的素材啊
+
+*****
+#	20200526
+水能載舟，E...
+ERR_CONNECTION_RESET
+
+*****
+#	20200524
+你這個是天方夜譚
+
+*****
+#	20200516
+sol工黨母星系不是sol
+
+*****
+#	20200511
+感覺魯莽和愛麗絲<!-- https://zh.moegirl.org/?curid=103702 -->有點像（
+
+*****
+#	20200509
+通假字推进刻不容缓
 
 *****
 #	20200406
