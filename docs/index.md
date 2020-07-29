@@ -1,4 +1,8 @@
 
+#	20200729
+![yukikazesamananoda][f93280843f7052c5196434d7cf21fa24d635261aee546e8e8abd2ae92e02b7cbf8b1f791c696638606280d1dc4c40f8d0f8f7706c1140f2c0f5b5ec83ec4fd02]
+
+*****
 #	20200530
 爲什麼看的本子也會變成夢的素材啊
 
@@ -27,7 +31,7 @@ sol工黨母星系不是sol
 #	20200406
 soraaaaa
 <!--  -->
-[![g5164511](https://img2.gelbooru.com/images/0d/b7/0db7fe2ed76ef04192760ed91f6678c7.jpg)](https://img2.gelbooru.com/images/0d/b7/0db7fe2ed76ef04192760ed91f6678c7.jpg)
+[![g5164511][c4bf8a914a6be8c380d8e8c8b450adc83fe7e19e6e1726f87c47e1bbd8f844b7a206d79f1c20775725eb76a83bd7f528683cadabff0e5290bb33560f743bbe86]](https://img2.gelbooru.com/images/0d/b7/0db7fe2ed76ef04192760ed91f6678c7.jpg)
 
 *****
 #	20200323
@@ -37,7 +41,7 @@ soraaaaa
 #	20200322
 也许世上根本没有拆腻子，也许人人都是拆腻子
 <!--  -->
-[![g5101818](https://img2.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)](https://img2.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)
+[![g5101818][54c675bb8ee61382c4f32e0f29ea106c6a6dc34eb6f1781cb2f1614f59e1cf603094fe0ff3bdb30e226c7f31d73360823cb07207a0e5a108c72f18e405c4113d]](https://img2.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)
 
 *****
 #	20200313
@@ -151,7 +155,7 @@ Sorry, you've been detected as an automated program (a bot).
 
 *****
 #	20180812
-[![zhihu.bilibili](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)
+[![zhihu.bilibili][42884bf1bc4c5bd39b79df4086d23edac806208cfc5aaa88f872dd61ff7c6c9bb1d044a24c1de9cfe40dddd4000b22c94e0a8a98b86f0df5c681a48facb638f7]](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)
 
 *****
 #	20180808
@@ -249,3 +253,6 @@ ob der liebe Gott würfelt
 Change never stops.
 
 *****
+
+{% include_relative _base64.md %}
+
