@@ -1,4 +1,11 @@
 
+#	20201007
+The rose is red, the violet's blue.
+Marry is sweet, and so are you.
+The rose is red, and Marry's blue.
+We were deceived, and so are you.
+
+*****
 #	20200729
 萌百301到.cn了 蕾姆
 
