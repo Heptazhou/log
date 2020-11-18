@@ -1,4 +1,8 @@
 
+#	20201118
+![salem][8096808ed885fdf9e744008a698401f3d44e4ae459bb154019e1e2ad8112d11155625aea37b11f0343992ee3562658103bbc4beac1ff672143329a04fd79e2e8]
+
+*****
 #	20201007
 The rose is red, the violet's blue.
 Marry is sweet, and so are you.
