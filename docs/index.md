@@ -1,6 +1,22 @@
 
+#	20201228
+nothing good lasts long
+
+*****
+#	20201208
+every single choice proved erroneous
+
+*****
+#	20201125
+what if talking in the world is totally unnecessary
+
+*****
 #	20201118
 ![salem][8096808ed885fdf9e744008a698401f3d44e4ae459bb154019e1e2ad8112d11155625aea37b11f0343992ee3562658103bbc4beac1ff672143329a04fd79e2e8]
+
+*****
+#	20201108
+life lies in stillness
 
 *****
 #	20201007
