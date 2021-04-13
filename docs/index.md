@@ -1,4 +1,26 @@
 
+#	20210407
+我有梦想了！<!-- mn -->
+
+*****
+#	20210327
+听好了！嗯…我是高贵、幸运、无敌的雪风，第八艘加贺级战舰，基因…那又是什么？！这很难说！嗯哼，不管怎么说，你是个很幸运的人，能得到我的帮助！只要你愿意，我的运气就够了！哈哈哈！
+<!--  -->
+// IDS_PCEE255_YUKIKAZE_FLAG_DESCRIPTION
+
+*****
+#	20210310
+穹<!-- https://zh.moegirl.org/index.php?curid=10183 -->浆草
+
+*****
+#	20210215
+“也许这会是一种妄想吧。但不去做的话，就连希望也没有了。所以……我们开始吧。”<!-- ——黑暗荔枝 -->
+
+*****
+#	20200109
+一个人吃火锅
+
+*****
 #	20201228
 nothing good lasts long
 
@@ -12,7 +34,7 @@ what if talking in the world is totally unnecessary
 
 *****
 #	20201118
-![salem][8096808ed885fdf9e744008a698401f3d44e4ae459bb154019e1e2ad8112d11155625aea37b11f0343992ee3562658103bbc4beac1ff672143329a04fd79e2e8]
+[![salem](https://img.heptazhou.com/png/8096808ed885fdf9e744008a698401f3d44e4ae459bb154019e1e2ad8112d11155625aea37b11f0343992ee3562658103bbc4beac1ff672143329a04fd79e2e8.png)](https://img.heptazhou.com/png/8096808ed885fdf9e744008a698401f3d44e4ae459bb154019e1e2ad8112d11155625aea37b11f0343992ee3562658103bbc4beac1ff672143329a04fd79e2e8.png)
 
 *****
 #	20201108
@@ -31,7 +53,12 @@ We were deceived, and so are you.
 
 *****
 #	20200729
-![yukikazesamananoda][f93280843f7052c5196434d7cf21fa24d635261aee546e8e8abd2ae92e02b7cbf8b1f791c696638606280d1dc4c40f8d0f8f7706c1140f2c0f5b5ec83ec4fd02]
+[![yukikazesamananoda](https://img.heptazhou.com/png/f93280843f7052c5196434d7cf21fa24d635261aee546e8e8abd2ae92e02b7cbf8b1f791c696638606280d1dc4c40f8d0f8f7706c1140f2c0f5b5ec83ec4fd02.png)](https://img.heptazhou.com/png/f93280843f7052c5196434d7cf21fa24d635261aee546e8e8abd2ae92e02b7cbf8b1f791c696638606280d1dc4c40f8d0f8f7706c1140f2c0f5b5ec83ec4fd02.png)
+
+*****
+#	20200710
+新头像
+[![avatar.alice](https://img.heptazhou.com/jpg/6955af09de6571b6b5045b512af88788926f937fb99e7aebc444c5750c5917895ee67365f1b946a5c8fa4ff200fdb0048eacca4b5e7ca813f5e747b75af58a43.jpg)](https://i0.hdslb.com/bfs/album/c1118e1412927f8116b4dc4a672266adcc9c2aa7.jpg)
 
 *****
 #	20200530
@@ -52,7 +79,7 @@ sol工黨母星系不是sol
 
 *****
 #	20200511
-感覺魯莽和愛麗絲<!-- https://zh.moegirl.org/?curid=103702 -->有點像（
+感覺魯莽和愛麗絲<!-- https://zh.moegirl.org/index.php?curid=103702 -->有點像（
 
 *****
 #	20200509
@@ -62,7 +89,7 @@ sol工黨母星系不是sol
 #	20200406
 soraaaaa
 <!--  -->
-[![g5164511][c4bf8a914a6be8c380d8e8c8b450adc83fe7e19e6e1726f87c47e1bbd8f844b7a206d79f1c20775725eb76a83bd7f528683cadabff0e5290bb33560f743bbe86]](https://img2.gelbooru.com/images/0d/b7/0db7fe2ed76ef04192760ed91f6678c7.jpg)
+[![g5164511](https://img3.gelbooru.com/images/0d/b7/0db7fe2ed76ef04192760ed91f6678c7.jpg)](https://img3.gelbooru.com/images/0d/b7/0db7fe2ed76ef04192760ed91f6678c7.jpg)
 
 *****
 #	20200323
@@ -72,7 +99,7 @@ soraaaaa
 #	20200322
 也许世上根本没有拆腻子，也许人人都是拆腻子
 <!--  -->
-[![g5101818][54c675bb8ee61382c4f32e0f29ea106c6a6dc34eb6f1781cb2f1614f59e1cf603094fe0ff3bdb30e226c7f31d73360823cb07207a0e5a108c72f18e405c4113d]](https://img2.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)
+[![g5101818](https://img3.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)](https://img3.gelbooru.com/images/03/93/0393c8ce9634775674cc0bc574921302.jpg)
 
 *****
 #	20200313
@@ -186,7 +213,7 @@ Sorry, you've been detected as an automated program (a bot).
 
 *****
 #	20180812
-[![zhihu.bilibili][42884bf1bc4c5bd39b79df4086d23edac806208cfc5aaa88f872dd61ff7c6c9bb1d044a24c1de9cfe40dddd4000b22c94e0a8a98b86f0df5c681a48facb638f7]](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)
+[![zhihu.bilibili](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)](https://pic3.zhimg.com/v2-d2477954fc85938752715caf0ee05862_r.jpg)
 
 *****
 #	20180808
