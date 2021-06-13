@@ -1,4 +1,4 @@
-using Dates: Dates
+using Dates
 
 const file = "index.md"
 
