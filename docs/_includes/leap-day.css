@@ -108,26 +108,12 @@ figure {
 	margin: 0;
 }
 
-footer .copyright {
-	font-family: "Noto CJK", "Noto Mono", sans-serif;
-}
-
 footer {
-	font-family: "Sarasa Mono", "Noto CJK", "Noto CJK Mono", Monaco, Menlo, Consolas, sans-serif, monospace;
 	width: 20%;
 	position: fixed;
 	left: 20px;
 	bottom: 20px;
 	line-height: 16px;
-}
-
-@media (max-width: 640px) {
-	footer .copyright {
-		font-family: "Noto CJK Local", "Noto Mono Local", "Sarasa Mono Local", "Noto CJK", Monaco, Menlo, Consolas, sans-serif;
-	}
-	footer {
-		font-family: "Sarasa Mono Local", "Noto CJK Mono Local", "Noto CJK", Monaco, Menlo, Consolas, sans-serif;
-	}
 }
 
 form {
@@ -458,6 +444,24 @@ th {
 
 #banner ul li {
 	display: inline;
+}
+
+@media all {
+	footer .copyright {
+		font-family: Noto, Inter, sans-serif;
+	}
+	footer small, section {
+		font-family: Saranya, Noto, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
+	}
+}
+
+@media (max-width: 640px) {
+	footer .copyright {
+		font-family: NotoLocal, Inter, sans-serif;
+	}
+	footer small, section {
+		font-family: SaranyaLocal, NotoLocal, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
+	}
 }
 
 @media (min-width: 1600px) and (min-height: 720px) {
