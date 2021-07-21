@@ -7,5 +7,6 @@ jailed: false
 kramdown:
   hard_wrap: true
   input: GFM
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 theme: jekyll-theme-leap-day
 title: 第七詝的日志
