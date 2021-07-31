@@ -446,21 +446,21 @@ th {
 	display: inline;
 }
 
-@media all {
+@media (max-width: 640px) {
 	footer .copyright {
-		font-family: Noto, Inter, sans-serif;
+		font-family: Saranya, Noto, Inter, sans-serif;
 	}
 	footer small, section {
 		font-family: Saranya, Noto, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
 	}
 }
 
-@media (max-width: 640px) {
+@media not all and (max-width: 640px), print {
 	footer .copyright {
-		font-family: NotoLocal, Inter, sans-serif;
+		font-family: Saranya, SaranyaWeb, Noto, NotoWeb, Inter, sans-serif;
 	}
 	footer small, section {
-		font-family: SaranyaLocal, NotoLocal, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
+		font-family: Saranya, SaranyaWeb, Noto, NotoWeb, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
 	}
 }
 
