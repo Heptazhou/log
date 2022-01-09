@@ -314,8 +314,8 @@ q:before, q:after {
 }
 
 section {
-	width: 960px;
-	padding: 30px 30px 50px 30px;
+	width: 1120px;
+	padding: 30px 0 50px 30px;
 	margin: 20px 0;
 	margin-top: 64px;
 	position: relative;
@@ -450,6 +450,7 @@ th {
 	footer .copyright {
 		font-family: Saranya, Noto, Inter, sans-serif;
 	}
+
 	footer small, section {
 		font-family: Saranya, Noto, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
 	}
@@ -459,6 +460,7 @@ th {
 	footer .copyright {
 		font-family: Saranya, SaranyaWeb, Noto, NotoWeb, Inter, sans-serif;
 	}
+
 	footer small, section {
 		font-family: Saranya, SaranyaWeb, Noto, NotoWeb, Iosevnya, Monaco, Menlo, Consolas, sans-serif, monospace;
 	}
@@ -470,19 +472,28 @@ th {
 		left: 0;
 		padding: 0 0 20px 20px;
 	}
+
 	nav {
 		left: 0;
 		margin-left: 20%;
 		padding-right: 20px;
 		width: 10%;
 	}
+
 	section {
 		margin-left: 30%;
 		padding-right: 10%;
 		width: 70%;
 	}
+
 	.wrapper {
 		width: 100%;
+	}
+}
+
+@media (max-width: 1660px) {
+	section {
+		width: 960px;
 	}
 }
 
@@ -497,32 +508,40 @@ th {
 		width: auto;
 		margin: 0;
 	}
+
 	nav {
 		display: none;
 	}
+
 	header, section, footer {
 		float: none;
 	}
+
 	header h1, section h1, footer h1 {
 		overflow: hidden;
 		text-overflow: ellipsis;
 		-o-text-overflow: ellipsis;
 		-ms-text-overflow: ellipsis;
 	}
+
 	#banner {
 		width: 100%;
 	}
+
 	#banner .downloads {
 		margin-right: 60px;
 	}
+
 	#banner #logo {
 		margin-right: 15px;
 	}
+
 	section {
 		padding: 20px auto;
 		margin: 190px auto 20px;
 		max-width: 700px;
 	}
+
 	footer {
 		text-align: center;
 		margin: 20px auto;
@@ -538,6 +557,7 @@ th {
 		padding: 20px 20px;
 		margin: 0;
 	}
+
 	header h1 {
 		font-size: 32px;
 		overflow: hidden;
@@ -545,14 +565,17 @@ th {
 		-o-text-overflow: ellipsis;
 		-ms-text-overflow: ellipsis;
 	}
+
 	#banner {
 		top: 80px;
 	}
+
 	section {
 		margin-top: 130px;
 		margin-bottom: 0;
 		width: auto;
 	}
+
 	header ul, header p.view {
 		position: static;
 	}
@@ -564,6 +587,7 @@ th {
 		padding: 5px 0;
 		min-height: 0;
 	}
+
 	header h1 {
 		font-size: 24px;
 		overflow: hidden;
@@ -571,9 +595,11 @@ th {
 		-o-text-overflow: ellipsis;
 		-ms-text-overflow: ellipsis;
 	}
+
 	#banner {
 		display: none;
 	}
+
 	header ul {
 		display: none;
 	}
@@ -594,6 +620,7 @@ th {
 	nav {
 		display: none;
 	}
+
 	footer {
 		text-align: center;
 		margin: 20px auto;
